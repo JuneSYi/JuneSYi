@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm June</h1>
 <h3 align="center">On a journey to escape imposter syndrome</h3>
 
-🔭 I’m currently focused on picking up ~~Angular~~ React as my first frontend framework. If you're curious to see what I've done, you can find my work here in the <a href= "https://github.com/JuneTheYi/React"> React folder </a>.
+🔭 I’m currently focused on picking up ~~Angular~~ React as my first frontend framework. If you're curious to see what I've done, you can find my work here in the <a href= "https://github.com/JuneSYi/React"> React folder </a>.
 
-🔭 Additional focus of daily <a href= "https://github.com/JuneTheYi/DataStructuresAndAlgorithms"> Data Structures and Algorithms </a>. Goal is 1 per day for the rest of 2023 (today is 5/1/2023). I'll use my github contributions graph to keep myself honest.
+🔭 Additional focus of daily <a href= "https://github.com/JuneSYi/DataStructuresAndAlgorithms"> Data Structures and Algorithms </a>. Goal is 1 per day for the rest of 2023 (today is 5/1/2023). I'll use my github contributions graph to keep myself honest.
 
 🔭 Secretly dabbling in the AI/ML space...just because its fun :D Also inspired by McKay Wrigley
 
@@ -14,6 +14,6 @@
 <br> &emsp; &emsp; :game_die: **All-in Podcast**
 <br> &emsp; &emsp; :rocket: **AI / ML - Huggingface, LangChain, OpenAI**
 
-📫 How to best reach me **JYTechDevOps@gmail.com** or message me on <a href="https://www.linkedin.com/in/juneyi"> LinkedIn </a>
+📫 How to best reach me **JYTechDevOps@gmail.com** or message me on <a href="https://www.linkedin.com/in/junesyi"> LinkedIn </a>
 
 ⚡ Fun fact: :runner: I was so nervous for my first marathon that I ran a marathon (on my own, using GPS) a week before in order to see if it was possible and to avoid embarassment if I failed (the plan was to back out if that was the case).
