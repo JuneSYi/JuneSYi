@@ -3,8 +3,9 @@
 
 🔭 I’m currently focused on picking up ~~Angular~~ React as my first frontend framework. If you're curious to see what I've done, you can find my work here in the <a href= "https://github.com/JuneSYi/React"> React folder </a>.
 
-"Don't get caught playing the wrong game because you think the world should be a different way." - A Life Engineered
-🔭 That line restarted my determination to get back into algo practice. I created a daily habit of doing some <a href= "https://github.com/JuneSYi/DataStructuresAndAlgorithms"> Data Structures and Algorithms </a>. My personal goal is to aim for 1 per day for the rest of 2023 (today is 5/1/2023). I'll use my github contributions graph to keep myself honest.
+💬 <i>Don't get caught playing the wrong game because you think the world should be a different way. </i> <a href="https://www.youtube.com/watch?v=Sb0p1-TGjmc&">A Life Engineered </a>
+<br><br>
+🔭 That line above restarted my determination to get back into algo practice. I created a daily habit of doing some <a href= "https://github.com/JuneSYi/DataStructuresAndAlgorithms"> Data Structures and Algorithms </a>. My personal goal is to aim for 1 per day for the rest of 2023 (today is 5/1/2023). I'll use my github contributions graph to keep myself honest.
 
 🔭 Secretly dabbling in the AI/ML space...just because its fun :D Also inspired by McKay Wrigley
 
