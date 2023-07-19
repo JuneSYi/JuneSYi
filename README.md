@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm June</h1>
 <h3 align="center">On a journey to escape imposter syndrome</h3>
 
-🔭 Trying to figure out where to go in my career, if you have any advice, would love to chat
+🔭 I attended a backend development focused bootcamp back in 2022 where I first picked up Java. I, then, spent a year as a DevOps Engineer developing microservices in AWS Cloud and learning the fundamentals of backend infrastructure. After moving to the Bay Area in 2023, I'm now working with Evolved Packet Core and other related telecommunication networks.
 
 💬 AMA about **Military life, Software Dev bootcamps, learning to code**
 
