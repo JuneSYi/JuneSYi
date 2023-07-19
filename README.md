@@ -12,6 +12,6 @@
 
 📫 How to best reach me **JYTechDevOps@gmail.com** or message me on <a href="https://www.linkedin.com/in/junesyi"> LinkedIn </a>
 
-⚡ Fun fact: :runner: I was so nervous for my first marathon that I ran a marathon (on my own, using GPS) a week before in order to see if it was possible and to avoid embarassment if I failed (the plan was to back out if that was the case).
+⚡ Fun fact: :black_joker: My original plan after leaving the military was to go full time in poker! Always happy to chat about NLHE or PLO :)
 
 "If you get one percent better each day for one year, you'll end up thirty-seven times better by the time you're done." -James Clear
