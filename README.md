@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm June</h1>
 <h3 align="center">On a journey to escape imposter syndrome</h3>
 
-🔭 I attended a backend development focused bootcamp back in 2022 where I first picked up Java. I, then, spent a year as a DevOps Engineer developing microservices in AWS Cloud and learning the fundamentals of backend infrastructure. After moving to the Bay Area in 2023, I'm now working with Evolved Packet Core and other related telecommunication networks.
+🔭 I attended a backend-focused software bootcamp back in 2022 where I first picked up Java and then spent a year as a DevOps Engineer working with AWS infrastructure. After moving to the Bay Area in 2023, I'm now working on telecommunication data and networks--looking to eventually transition to a software/tech company in the near future.
 
 💬 AMA about **Military life, Software Dev bootcamps, learning to code**
 
@@ -9,6 +9,7 @@
 <br> &emsp; &emsp; :chart_with_upwards_trend: **Career progression**
 <br> &emsp; &emsp; :game_die: **All-in Podcast**
 <br> &emsp; &emsp; :rocket: **AI / ML - Huggingface, LangChain, OpenAI**
+<br> &emsp; &emsp; :eyes: The Bay Area culture...
 
 📫 How to best reach me **JYTechDevOps@gmail.com** or message me on <a href="https://www.linkedin.com/in/junesyi"> LinkedIn </a>
 
