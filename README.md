@@ -6,10 +6,10 @@
 💬 AMA about **Military life, Software Dev bootcamps, learning to code**
 
 💬 Would love to talk about:
-<br> &emsp; &emsp; :chart_with_upwards_trend: **Career progression**
+<br> &emsp; &emsp; :chart_with_upwards_trend: **Career progression (Always open to advice!!)**
 <br> &emsp; &emsp; :game_die: **All-in Podcast**
 <br> &emsp; &emsp; :rocket: **Anything tech related: defense, telecommunications, cloud, networking, the list is endless...**
-<br> &emsp; &emsp; :eyes: Poker, the game and the psychology it takes to be a winner
+<br> &emsp; &emsp; :eyes: **Poker, the game and the psychology it takes to be a winner**
 
 📫 How to best reach me **JYTechDevOps@gmail.com** or message me on <a href="https://www.linkedin.com/in/junesyi"> LinkedIn </a>
 
