@@ -12,3 +12,5 @@
 📫 How to best reach me **JYTechDevOps@gmail.com**
 
 "If you get one percent better each day for one year, you'll end up thirty-seven times better by the time you're done." -James Clear
+
+"If you were watching a movie about yourself in your present state/time, would you think that person is going to make it?" -Chris Wilkinson (I think)
