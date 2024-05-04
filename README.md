@@ -9,6 +9,4 @@
 <br> &emsp; &emsp; :game_die: **All-in Podcast**
 <br> &emsp; &emsp; :rocket: **Coding, Backend, System Design, DSA, System programming languages--anything tech related**
 
-📫 How to best reach me **JYTechDevOps@gmail.com**
-
 *If you get one percent better each day for one year, you'll end up thirty-seven times better by the time you're done* &nbsp; - James Clear
