@@ -2,7 +2,7 @@
 
 🔭 I attended a backend-focused software bootcamp back in 2021 where I first picked up Java and then spent a year as a DevOps Engineer working with AWS infrastructure. I'm currently focused mainly on leetcode and passively learning Rust on the side
 
-:eyes: if my git activity looks dissapointingly empty, trust me, I'm on the same page. It's been a struggle trying to decide what's the right thing to focus on. I ended up choose data structures, https://leetcode.com/u/June_Yi/, and am now aiming for a balance between both.
+:eyes: if my git activity looks dissapointingly empty, trust me, I'm on the same page. It's been a struggle trying to decide what's the right thing to focus on. I ended up choose data structures, https://leetcode.com/u/junesyi/, and am now aiming for a balance between both.
 
 💬 AMA about **Military life, Software Dev bootcamps, learning to code**
 
