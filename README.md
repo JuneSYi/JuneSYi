@@ -1,9 +1,7 @@
 <ul> 
   <li> started in 2021 through a bootcamp </li>
 
-  <li> primarily focused on data structures and algorithms - https://leetcode.com/u/junesyi/ </li>
-
-  <li> passively learning 🦀 rust </li>
+  <li> struggling with 🦀 rust, but loving every minute of it </li>
 
 </ul>
 
