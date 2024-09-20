@@ -1,7 +1,7 @@
 <ul> 
   <li> started in 2021 through a bootcamp </li>
 
-  <li> struggling with 🦀 rust, but loving every minute of it </li>
+  <li> learning and using 🦀 rust, passionate about distributed systems </li>
 
 </ul>
 
