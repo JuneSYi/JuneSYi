@@ -1,7 +1,7 @@
 <ul> 
   <li> started in 2021 through a bootcamp </li>
 
-  <li> learning 🦀 rust and always trying stuff. Some will work, some won’t. But always learning.  </li>
+  <li> learning 🦀 rust and trying stuff. Some will work, some won’t. But always learning.  </li>
 
 </ul>
 
