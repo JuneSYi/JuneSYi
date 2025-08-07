@@ -1,10 +1,12 @@
 > *If you get one percent better each day for one year, you'll end up thirty-seven times better by the time you're done* &nbsp; - James Clear
 #
-my journey into software engineering began in 2021 with a backend development bootcamp. Since then, I've work across multiple roles including platform/infra teams using AWS, integration and deployment automation for edge devices in a systems role, and backend development for a TypeScript codebase. 
+* my journey into software engineering began in 2021 with a backend development bootcamp.
 
-most recently, I've been driven to grow as an engineer by exploring some concepts of distributed systems with a particular focus on 🦀 Rust.
+* since then, I've work across multiple roles including platform/infra teams using AWS, integration and deployment automation for edge devices in a systems role, and backend development for a TypeScript codebase. 
 
-for a quick overview, I've added some key highlights of my recent (and unfinished) experiments below...
+* most recently, I've been driven to grow as an engineer by exploring some concepts of distributed systems with a particular focus on 🦀 Rust.
+
+<em>for a quick overview, I've added some key highlights of my recent (and unfinished) experiments below...</em>
 
 ##### [Concurrent Network Server](https://github.com/JuneSYi/concurrent-network-server)
 this was aimed to do an initial deep dive into sync and async network programming. I focused on understanding various concurrency models and their practical implications.
