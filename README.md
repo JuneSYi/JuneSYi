@@ -6,6 +6,7 @@
 
 * most recently, I've been driven to grow as an engineer by exploring some concepts of distributed systems with a particular focus on 🦀 Rust.
 
+---
 <em>for a quick overview, I've added some key highlights of my recent (and unfinished) experiments below...</em>
 
 ##### [Concurrent Network Server](https://github.com/JuneSYi/concurrent-network-server)
